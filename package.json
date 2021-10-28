@@ -1,0 +1,14 @@
+{
+  "name": "js-lesson09-object-method-show-hidden-items-animated-gradient-background",
+  "version": "1.0.0",
+  "description": "Call object method, show hidden items if meet weekly study goal. This css has animated gradient background!",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "animated",
+    "object method",
+    "object",
+    "show hidden",
+    "gradient"
+  ]
+}
